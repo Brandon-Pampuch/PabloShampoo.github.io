@@ -1,2 +1,2 @@
 # PabloShampoo.github.io
-Programmer Developer blog
+A blog to track Pablo's development as a developer.
